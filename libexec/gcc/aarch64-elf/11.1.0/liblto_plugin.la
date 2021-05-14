@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/Java/GCC/gcc-build/../gcc-arm64/libexec/gcc/aarch64-elf/11.1.0'
+libdir='/root/gcc-build/../gcc-arm64/libexec/gcc/aarch64-elf/11.1.0'
